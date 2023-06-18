@@ -1,6 +1,6 @@
 # Authorization page - Rest API
 
-This is a api for authentication page including user signup, login and logout. It was build with express, graphql (using apollo server) and mongodb.
+This is a api for authentication page including user signup, login and logout. It was build with express, graphql (using apollo server) and mongodb, it also includes jwt.
 
 ## How to run
 
